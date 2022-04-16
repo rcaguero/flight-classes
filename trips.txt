@@ -1,0 +1,8 @@
+--------------------Trip Ticket-----------------
+Trip ID:  1
+Source:  Bentonville
+Destination:  New York
+Date of Trip:  03/3002/
+Number of Passengers:  1
+Total cost: $ 300
+-----------------------------------------------

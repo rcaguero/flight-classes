@@ -1,0 +1,5 @@
+133,United Airlines,Bentonville,New York,300
+162,American Airlines,Dallas Forthworth,Chicago,400
+232,Jet Blue, Bentonville,Miami,500
+991,Spirit Airlines,Houston, Los Angeles,900
+737,United Airlines,Atlanta,New Jersey,750
